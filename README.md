@@ -58,6 +58,24 @@ python main.py -f benchmark/static_iframe.html --static
 
 ![](https://github.com/ririhedou/FrameHanger/blob/master/benchmark/demo.gif)
 
+## BenchMark
+
+We summarize typical static and dynamic ifram injection in the becnmark and realworlddata.
+
+In benchmark folder, we have
+
+- dynamic_create_iframe.html : dynamically inject an iframe with createElement 
+- dynamic_doc_write_iframe.html : dynamically inject an iframe with document.write 
+- dynamic_obfuscation.html : dynamically inject iframes with obfuscation. The code is extracted
+from **real-world** malicious samples.
+- static_iframe.html : statically inject an iframe with iframe tag.
+
+In realworlddate, we provide 3 samples from RIG campaign.
+
+- 0b7cfee80d084031fd6dddb730333dc4-static_sample.html	[VirusTotal Report](https://www.virustotal.com/#/file-analysis/ZDM5OTMxNWE5MTE1MDFhN2E4MjQ3ZmQ2NzNkMWI0NGY6MTUyNDE1MDYxNQ==)
+- 2a0fea6969f07950238749dd8bf5b611-static-sample2.html	
+- 6db16de071aef9fd77bb0539ed3507a1-static-sample3.html
+
 
 ## Extra
 
