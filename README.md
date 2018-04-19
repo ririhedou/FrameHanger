@@ -72,9 +72,9 @@ from **real-world** malicious samples.
 
 In realworlddate, we provide 3 samples from RIG campaign.
 
-- 0b7cfee80d084031fd6dddb730333dc4-static_sample.html	[VirusTotal Report](https://www.virustotal.com/#/file-analysis/ZDM5OTMxNWE5MTE1MDFhN2E4MjQ3ZmQ2NzNkMWI0NGY6MTUyNDE1MDYxNQ==)
-- 2a0fea6969f07950238749dd8bf5b611-static-sample2.html	
-- 6db16de071aef9fd77bb0539ed3507a1-static-sample3.html
+- 0b7cfee80d084031fd6dddb730333dc4-static_sample.html	[<VirusTotal Report>](https://www.virustotal.com/#/file-analysis/ZDM5OTMxNWE5MTE1MDFhN2E4MjQ3ZmQ2NzNkMWI0NGY6MTUyNDE1MDYxNQ==)
+- 2a0fea6969f07950238749dd8bf5b611-static-sample2.html [<VirusTotal Report>](https://www.virustotal.com/#/file-analysis/ODRlMGQ0ZjhkNTM5ZTFkOTZkMjRjMmIzZTkzMWQyZGM6MTUyNDE1MDc2Mg==)
+- 6db16de071aef9fd77bb0539ed3507a1-static-sample3.html [<VirusTotal Report>](https://www.virustotal.com/#/file-analysis/ZDFmMTg4MjBlYTkxNjg0ZDc4ZjU5ZGQ3ZWU2NzMwYTI6MTUyNDE1MDgxNA==)
 
 
 ## Extra
